@@ -1,4 +1,4 @@
-
+© 2025 Samuel Byruyere
 Sovereign Swarm Intelligence: An Analysis of Emerging Decentralized Compute Architectures and AI Training Frameworks
 
 
